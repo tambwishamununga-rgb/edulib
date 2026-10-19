@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (Process Scheduling and Deadlocks) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 653 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(Process Scheduling and Deadlocks) Tj T*
+() Tj T*
+(The operating system kernel decides which process runs on the processor next. A) Tj T*
+(scheduler may use round robin, priority or shortest job first scheduling for each) Tj T*
+(process and thread.) Tj T*
+() Tj T*
+(A deadlock occurs when processes wait forever for resources held by each other. Programs) Tj T*
+(use a semaphore or a mutex for synchronization, and careless locking of a mutex can) Tj T*
+(cause deadlock.) Tj T*
+() Tj T*
+(A context switch saves the state of one process and loads another, usually after an) Tj T*
+(interrupt from the timer.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000290 00000 n 
+0000000416 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1120
+%%EOF

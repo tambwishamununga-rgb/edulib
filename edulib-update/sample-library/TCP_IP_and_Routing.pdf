@@ -1,0 +1,49 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (TCP/IP and Routing) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 659 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(TCP/IP and Routing) Tj T*
+() Tj T*
+(A network moves data as packets. The TCP protocol provides reliable delivery between) Tj T*
+(hosts, while UDP is faster but does not guarantee that a packet arrives.) Tj T*
+() Tj T*
+(Each device has an IP address, and a subnet groups addresses on one network. A router) Tj T*
+(forwards each packet towards its destination using a routing table, and a switch) Tj T*
+(connects devices on a LAN.) Tj T*
+() Tj T*
+(DNS translates names into an IP address, and HTTP runs on top of TCP for the web.) Tj T*
+(Ethernet and wireless links carry the packets across the physical network.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000276 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1112
+%%EOF

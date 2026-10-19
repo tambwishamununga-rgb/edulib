@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (Agile Scrum and Project Planning) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 635 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(Agile Scrum and Project Planning) Tj T*
+() Tj T*
+(Project management organises work into a project plan with milestones, a schedule and a) Tj T*
+(budget. A Gantt chart shows the schedule, and the critical path shows which tasks cannot) Tj T*
+(slip.) Tj T*
+() Tj T*
+(In scrum a team works in a sprint and takes tasks from the backlog. Each stakeholder) Tj T*
+(helps to define requirements, and the team tracks risk and holds a retrospective after) Tj T*
+(every sprint.) Tj T*
+() Tj T*
+(A work breakdown divides the project scope into small tasks that can be assigned and) Tj T*
+(tracked.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000290 00000 n 
+0000000416 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1102
+%%EOF

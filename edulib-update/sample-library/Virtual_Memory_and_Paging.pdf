@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (Virtual Memory and Paging) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 586 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(Virtual Memory and Paging) Tj T*
+() Tj T*
+(Virtual memory lets the operating system give each process its own large address space.) Tj T*
+(The kernel divides memory into pages and uses a page table to translate addresses.) Tj T*
+() Tj T*
+(When a process touches a page that is not in memory, a page fault occurs and the) Tj T*
+(operating system loads the page from disk. Paging and segmentation both reduce) Tj T*
+(fragmentation of memory.) Tj T*
+() Tj T*
+(Too many page faults slow the whole system down, a condition known as thrashing.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000283 00000 n 
+0000000409 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1046
+%%EOF

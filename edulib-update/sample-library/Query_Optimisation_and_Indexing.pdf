@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (Query Optimisation and Indexing) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 716 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(Query Optimisation and Indexing) Tj T*
+() Tj T*
+(Query optimisation is central to advanced database systems. The query planner estimates) Tj T*
+(the cost of several plans and picks the cheapest one for each query.) Tj T*
+() Tj T*
+(An index is a separate data structure, often a b-tree, that speeds up retrieval at the) Tj T*
+(cost of extra storage and slower writes. A partial index covers only the rows that match) Tj T*
+(a condition.) Tj T*
+() Tj T*
+(Use EXPLAIN ANALYZE to display the query plan and the real run time. Concurrency control) Tj T*
+(and transaction processing decide how many queries can safely run at the same time in a) Tj T*
+(distributed database.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000289 00000 n 
+0000000415 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1182
+%%EOF

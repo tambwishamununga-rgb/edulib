@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (SQL Joins and Subqueries) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 644 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(SQL Joins and Subqueries) Tj T*
+() Tj T*
+(A JOIN combines rows from two tables in a relational database. An inner join keeps only) Tj T*
+(rows that match in both tables, while a left join keeps every row from the first table.) Tj T*
+() Tj T*
+(A subquery is a SELECT statement nested inside another SQL query. Subqueries let a query) Tj T*
+(filter records using values computed from another table.) Tj T*
+() Tj T*
+(Always join on primary key and foreign key columns so the database can match records) Tj T*
+(efficiently. Selecting only the columns you need keeps each SQL query fast and readable.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000282 00000 n 
+0000000408 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1103
+%%EOF

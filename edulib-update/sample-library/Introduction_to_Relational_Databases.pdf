@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Title (Introduction to Relational Databases) /Author (Sample Lecturer \(EduLib demo\)) >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 879 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL
+(Introduction to Relational Databases) Tj T*
+() Tj T*
+(A database stores records in tables, and every table has a primary key that identifies) Tj T*
+(each record uniquely. A foreign key links a record in one table to a record in another) Tj T*
+(table.) Tj T*
+() Tj T*
+(Normalization removes redundancy from a relational database design by splitting data) Tj T*
+(into well structured tables. Designers draw an ER diagram of each entity before creating) Tj T*
+(the schema in the DBMS.) Tj T*
+() Tj T*
+(SQL is the language used to query a relational database. The SELECT statement retrieves) Tj T*
+(records, and a JOIN combines records from several tables using their keys.) Tj T*
+() Tj T*
+(A transaction groups several SQL operations so that they either all succeed or all fail,) Tj T*
+(which keeps the information system consistent.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000294 00000 n 
+0000000420 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 4 0 R >>
+startxref
+1350
+%%EOF
